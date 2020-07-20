@@ -1,3 +1,4 @@
 # PFA
 Path Finding Visualizer
-Work in Progress.. soon to be completed
+Website hosted...
+Readme to be completed soon!
